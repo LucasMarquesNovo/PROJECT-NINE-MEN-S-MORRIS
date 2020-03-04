@@ -1,14 +1,12 @@
 # PROJECT-NINE-MEN-S-MORRIS
-PROJECT SOFTWARE ENGINEERING THREE
+SOFTWARE ENGINEERING III PROJECT 
 
-The team will develop a game nine men's morris. 
-
-Make the documentation and will deliver the project at the end of the semester
+The team will develop a nine men's morris game, elaborate the documentation and deliver the project at the end of the semester.
 
 ### 1. DO A TAP (TERMO DE ABERTURA DO PROJETO) - DATE 17/03
-      - NAME OF PROJECT;
-      - TIME;
-      - WHO IS YOUR TEAM;
+      - NAME OF THE PROJECT;
+      - DURATION;
+      - TEAM MEMBERS;
       - COST;
       - SCOPE.
      
